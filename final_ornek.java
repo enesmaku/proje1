@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 /*
-Kullanıcıdan alınan pozitif satır ve sütun sayıları ile oluşturulan iki boyutlu diziye method ile rastgele değerler atanır ve başka bir methodla ekrana yazdırılır.
+Kullanıcıdan alınan pozitif satır ve sütun sayıları ile oluşturulan iki boyutlu diziye method ile 1 ile 100 arası rastgele değerler atanır ve başka bir methodla ekrana yazdırılır.
 */
 
 public class final_ornek {
