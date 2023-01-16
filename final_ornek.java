@@ -2,6 +2,10 @@
 import java.util.Scanner;
 import java.util.Random;
 
+/*
+Kullanıcıdan alınan pozitif satır ve sütun sayıları ile oluşturulan iki boyutlu diziye method ile rastgele değerler atanır ve başka bir methodla ekrana yazdırılır.
+*/
+
 public class final_ornek {
     
     public static void diziYazdir(int[][] dizi){
