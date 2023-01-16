@@ -35,7 +35,7 @@ public class final_ornek {
             satir=input.nextInt();
             System.out.print("Sutun giriniz:");
             sutun=input.nextInt();
-        } while (satir<0 || sutun<0);
+        } while (satir<=0 || sutun<=0);
         
         int[][] dizi = new int[satir][sutun];
         dizi=diziOlustur(dizi);
